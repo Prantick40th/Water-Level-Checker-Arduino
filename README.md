@@ -2,4 +2,4 @@
 
 Checking water level and automatic pump on/off.
 
-Prteous, Assembly Language.
+Proteous, Assembly Language.
